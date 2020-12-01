@@ -7,4 +7,4 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
-// igual en este ejemplo presentaria 3.
+// igual en este ejemplo presentaria 23.

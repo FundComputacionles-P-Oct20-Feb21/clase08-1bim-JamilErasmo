@@ -7,3 +7,6 @@
 8.  Fin Haga_Hasta (numero <= 1)
 9.  Escribir numero
 9.  Fin
+// presenta en pantalla 
+// 1
+// 2
