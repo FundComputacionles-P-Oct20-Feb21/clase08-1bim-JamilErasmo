@@ -6,7 +6,8 @@
 6.    sueldo <- 400  
 7.  Fin si
 8.  Si edad > 21 entonces
-9.    sueldo <- 500  
+9.    sueldo <-- 500  
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+// el este ejemplo no saldria nada deberia ser >= 21 para que el sueldo sea de 500.

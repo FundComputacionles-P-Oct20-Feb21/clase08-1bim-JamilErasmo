@@ -1,6 +1,7 @@
 1. Inicio
 2. edad, i[0,n]
+3. edad <-- 0
 3. Si edad >= 18 entonces
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
-6. Fin    // sale error ya que no se le asigna un valor 
+6. Fin    // no presentaria nada ya que seria falso al ser 0 < 18.
