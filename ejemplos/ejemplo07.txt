@@ -7,6 +7,4 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
-// igual en este ejemplo presentaria 2
-                                     2
- por que no entra al ciclo.
+// igual en este ejemplo presentaria 3.
