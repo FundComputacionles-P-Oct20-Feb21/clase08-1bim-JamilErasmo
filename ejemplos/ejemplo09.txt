@@ -7,3 +7,19 @@
 // 30
 // Debe usar la operación aritmética MOD y un ciclo
 // repetitivo Para
+
+1. Inicio
+//Variables.
+2. num, i[0, n]
+3. cadenaF, x(200)[{1-9},{a-z},{A-Z},{BS}] <--""
+//Proceso.
+4. Para(num<--5, num<=30, num= +5) haga
+5.   Si (num MOD 2 == 1) entonces
+6.     cadenaF = cadenaF + num + "\n"
+7.   De lo contario
+8.     cadenaF = cadenaF + num + "\n" 
+9.   Fin SicadenaF = cadenaF + num + "\n"
+10. Fin_Para
+//Salida. 
+11. Escribir cadenaF
+12. Fin
