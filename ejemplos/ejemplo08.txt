@@ -3,9 +3,9 @@
 3.  numero <-- 1
 4.  Haga_Hasta 
 5.     Escribir numero
-7.     numero <-- numero +1
-8.  Fin Haga_Hasta (numero <= 1)
-9.  Escribir numero
+6.     numero <-- numero +1
+7.  Fin Haga_Hasta (numero <= 1)
+8.  Escribir numero
 9.  Fin
 // presenta en pantalla 
 // 1
